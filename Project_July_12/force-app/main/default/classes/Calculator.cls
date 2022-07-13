@@ -1,13 +1,14 @@
-public with sharing class calculator{
+public with sharing class Calculator{
 
     public calculator(){
 
     }
-    public integer add(ineger a, integer h)
+    //test
+    public integer add(integer a, integer b)
     {
         return a+b;
     }
-    public integer subtract(ineger a, integer h)
+    public integer subtract(integer a, integer b)
     {
         return a-b;
     }
