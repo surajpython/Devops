@@ -12,6 +12,12 @@ public with sharing class Calculator{
     {
         return a-b;
     }
+public Calculator(){
 
+}
+
+public intger add(integer a, integer b){
+    return a+b;
+}
 
 }
